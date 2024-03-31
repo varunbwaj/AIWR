@@ -1,2 +1,5 @@
-test/
+101_food_classes_10_percent*
 *.zip
+7*
+__pycache__
+test*
