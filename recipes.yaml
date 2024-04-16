@@ -1,0 +1,1385 @@
+recipes:
+  - name: foie_gras
+    ingredients:
+      - Fresh duck/goose liver
+      - Salt
+      - White pepper
+      - Sugar
+      - Cognac or brandy
+      - Port wine
+    steps:
+      - Remove veins from liver.
+      - Season with salt, pepper, and sugar.
+      - Marinate in cognac/brandy.
+      - Cook in oven at 300°F (150°C) for 45-60 mins in a water bath.
+      - Chill before serving.
+      
+  - name: club_sandwich
+    ingredients:
+      - Sliced bread
+      - Turkey/Chicken breast
+      - Bacon
+      - Lettuce
+      - Tomato
+      - Mayonnaise
+    steps:
+      - Toast bread.
+      - Layer with turkey/chicken, bacon, lettuce, tomato, and mayonnaise.
+      - Top with another slice of bread.
+      - Cut into triangles and serve.
+  - name: Gnocchi
+    ingredients:
+      - Potatoes
+      - Flour
+      - Egg
+      - Salt
+    steps:
+      - Cook potatoes until tender.
+      - Mash and mix with flour, egg, and salt.
+      - Roll into ropes and cut into pieces.
+      - Cook in boiling water until they float.
+      - Drain and serve with sauce.
+
+  - name: Ice Cream
+    ingredients:
+      - Heavy cream
+      - Whole milk
+      - Sugar
+      - Vanilla extract
+      - Salt
+    steps:
+      - Combine ingredients.
+      - Freeze in ice cream maker according to manufacturer's instructions.
+  - name: Samosa
+    ingredients:
+    - Potatoes
+    - Peas
+    - Spices (such as cumin, coriander, turmeric)
+    - Onion
+    - Garlic
+    - Ginger
+    - Phyllo dough or pastry dough
+    steps:
+    - Boil potatoes.
+    - Sauté onion, garlic, ginger, and spices.
+    - Add peas and mashed potatoes.
+    - Fill pastry dough with filling.
+    - Fry until golden brown.
+
+  - name: Donuts
+    ingredients:
+    - Flour
+    - Sugar
+    - Yeast
+    - Milk
+    - Egg
+    - Butter
+    - Salt
+    - Oil (for frying)
+    steps:
+    - Mix ingredients to form dough.
+    - Let rise until doubled.
+    - Roll out dough and cut into shapes.
+    - Fry until golden brown.
+    - Coat with sugar or glaze.
+
+  - name: Tuna Tartare
+    ingredients:
+    - Fresh tuna
+    - Soy sauce
+    - Sesame oil
+    - Lime juice
+    - Ginger
+    - Garlic
+    - Green onions
+    - Avocado
+    - Salt and pepper
+    steps:
+      - Dice tuna.
+      - Mix with soy sauce, sesame oil, lime juice, ginger, garlic, and green onions.
+      - Season with salt and pepper.
+      - Serve with sliced avocado.
+
+  - name: Filet Mignon
+    ingredients:
+      - Filet mignon steaks
+      - Salt
+      - Pepper
+      - Olive oil
+      - Butter
+      - Rosemary
+      - Garlic
+    steps:
+      - Season steaks with salt and pepper.
+      - Sear in olive oil and butter.
+      - Add rosemary and garlic.
+      - Cook to desired doneness.
+  - name: Seaweed Salad
+    ingredients:
+      - Seaweed
+      - Soy sauce
+      - Rice vinegar
+      - Sesame oil
+      - Sugar
+      - Garlic
+      - Ginger
+      - Green onions
+      - Sesame seeds
+    steps:
+      - Rinse and soak seaweed.
+      - Mix soy sauce, rice vinegar, sesame oil, sugar, garlic, and ginger for dressing.
+      - Toss seaweed with dressing, green onions, and sesame seeds.
+      - Chill before serving.
+
+  - name: French Toast
+    ingredients:
+      - Bread slices
+      - Eggs
+      - Milk
+      - Vanilla extract
+      - Cinnamon
+      - Butter
+      - Maple syrup (optional)
+    steps:
+      - Whisk eggs, milk, vanilla extract, and cinnamon.
+      - Dip bread slices in egg mixture.
+      - Cook in buttered skillet until golden brown on both sides.
+      - Serve hot with maple syrup if desired.
+
+  - name: Chicken Curry
+    ingredients:
+      - Chicken pieces
+      - Curry powder
+      - Onion
+      - Garlic
+      - Ginger
+      - Coconut milk
+      - Tomato
+      - Potatoes
+      - Salt
+      - Vegetable oil
+    steps:
+      - Sauté onion, garlic, and ginger.
+      - Add chicken and curry powder. Cook until browned.
+      - Stir in coconut milk, tomato, and potatoes. Simmer until chicken is cooked and potatoes are tender.
+      - Season with salt. Serve hot with rice or bread.
+
+  - name: Shrimp and Grits
+    ingredients:
+      - Shrimp
+      - Grits
+      - Bacon
+      - Onion
+      - Bell pepper
+      - Garlic
+      - Chicken broth
+      - Butter
+      - Salt and pepper
+    steps:
+      - Cook grits according to package instructions.
+      - Sauté bacon, onion, bell pepper, and garlic.
+      - Add shrimp and cook until pink.
+      - Stir in chicken broth and butter. Season with salt and pepper.
+      - Serve shrimp mixture over hot grits.
+
+  - name: Steak
+    ingredients:
+      - Steak cuts (such as ribeye, sirloin, or filet mignon)
+      - Salt
+      - Pepper
+      - Olive oil
+      - Butter
+      - Garlic
+      - Rosemary
+    steps:
+      - Season steaks with salt and pepper.
+      - Sear in olive oil and butter.
+      - Add garlic and rosemary.
+      - Cook to desired doneness.
+
+  - name: Cheesecake
+    ingredients:
+      - Cream cheese
+      - Sugar
+      - Eggs
+      - Sour cream
+      - Vanilla extract
+      - Graham cracker crumbs
+      - Butter
+      - Lemon zest (optional)
+    steps:
+      - Mix cream cheese and sugar until smooth.
+      - Beat in eggs, one at a time.
+      - Stir in sour cream, vanilla extract, and lemon zest.
+      - Press graham cracker crumbs mixed with melted butter into a crust.
+      - Pour filling over crust and bake until set.
+      - Chill before serving.
+
+  - name: Red Velvet Cake
+    ingredients:
+      - Cake flour
+      - Cocoa powder
+      - Baking soda
+      - Salt
+      - Unsalted butter
+      - Sugar
+      - Eggs
+      - Buttermilk
+      - Vanilla extract
+      - Red food coloring
+      - White vinegar
+      - Cream cheese
+      - Powdered sugar
+      - Vanilla extract
+    steps:
+      - Preheat oven. Sift dry ingredients.
+      - Cream butter and sugar. Add eggs one at a time.
+      - Mix in buttermilk, vanilla, and food coloring.
+      - Alternate adding dry ingredients and vinegar.
+      - Bake and cool. Frost with cream cheese frosting.
+
+  - name: Waffles
+    ingredients:
+      - Flour
+      - Baking powder
+      - Salt
+      - Sugar
+      - Eggs
+      - Milk
+      - Butter
+      - Vanilla extract
+    steps:
+      - Mix dry ingredients. Beat eggs, milk, butter, and vanilla.
+      - Combine wet and dry ingredients. Cook in waffle iron.
+
+  - name: Churros
+    ingredients:
+      - Water
+      - Butter
+      - Sugar
+      - Salt
+      - Flour
+      - Eggs
+      - Vegetable oil (for frying)
+      - Cinnamon sugar (for coating)
+    steps:
+      - Boil water, butter, sugar, and salt. Stir in flour.
+      - Beat in eggs. Pipe dough into hot oil. Fry until golden.
+      - Drain and coat with cinnamon sugar.
+
+  - name: Gyoza
+    ingredients:
+      - Ground pork
+      - Cabbage
+      - Garlic
+      - Ginger
+      - Green onions
+      - Soy sauce
+      - Sesame oil
+      - Salt
+      - Pepper
+      - Gyoza wrappers
+      - Vegetable oil (for frying)
+      - Dipping sauce (soy sauce, rice vinegar, chili oil)
+    steps:
+      - Mix pork, cabbage, garlic, ginger, green onions, soy sauce, sesame oil, salt, and pepper.
+      - Place filling in wrappers. Seal and pleat edges.
+      - Pan-fry until golden. Steam to cook through.
+
+  - name: Lobster Roll Sandwich
+    ingredients:
+      - Lobster meat
+      - Mayonnaise
+      - Lemon juice
+      - Salt
+      - Pepper
+      - Butter
+      - Hot dog buns
+      - Chives (optional)
+    steps:
+      - Mix lobster, mayonnaise, lemon juice, salt, and pepper.
+      - Butter and toast buns. Fill with lobster mixture.
+      - Garnish with chives if desired.
+
+  - name: Huevos Rancheros
+    ingredients:
+      - Tortillas
+      - Eggs
+      - Black beans
+      - Salsa
+      - Avocado
+      - Cheese
+      - Cilantro
+      - Salt
+      - Pepper
+      - Olive oil
+    steps:
+      - Fry tortillas. Cook eggs as desired.
+      - Heat black beans and salsa.
+      - Assemble with beans, eggs, avocado, cheese, and cilantro.
+
+  - name: Breakfast Burrito
+    ingredients:
+      - Tortillas
+      - Eggs
+      - Bacon or sausage
+      - Potatoes
+      - Cheese
+      - Salsa
+      - Avocado
+      - Salt
+      - Pepper
+      - Olive oil
+    steps:
+      - Cook bacon/sausage and potatoes. Scramble eggs.
+      - Heat tortillas. Fill with eggs, bacon/sausage, potatoes, cheese, salsa, and avocado.
+      - Roll up and serve.
+  - name: Grilled Cheese Sandwich
+    ingredients:
+      - Bread slices
+      - Cheese (e.g., cheddar, American)
+      - Butter
+    steps:
+      - Butter one side of each bread slice.
+      - Place cheese between bread slices, buttered side out.
+      - Heat skillet over medium heat. Cook sandwich until golden brown on both sides.
+
+  - name: Spaghetti Bolognese
+    ingredients:
+      - Ground beef
+      - Onion
+      - Garlic
+      - Carrot
+      - Celery
+      - Tomato paste
+      - Crushed tomatoes
+      - Red wine
+      - Beef broth
+      - Olive oil
+      - Spaghetti
+      - Salt
+      - Pepper
+      - Parmesan cheese (for serving)
+    steps:
+      - Sauté onion, garlic, carrot, and celery.
+      - Add ground beef. Cook until browned.
+      - Stir in tomato paste, crushed tomatoes, red wine, and beef broth.
+      - Simmer until sauce thickens. Season with salt and pepper.
+      - Serve over cooked spaghetti. Garnish with Parmesan cheese.
+
+  - name: Falafel
+    ingredients:
+      - Dried chickpeas
+      - Onion
+      - Garlic
+      - Parsley
+      - Cilantro
+      - Cumin
+      - Coriander
+      - Baking powder
+      - Salt
+      - Pepper
+      - Vegetable oil (for frying)
+    steps:
+      - Soak chickpeas overnight. Drain.
+      - Blend chickpeas, onion, garlic, parsley, cilantro, cumin, coriander, baking powder, salt, and pepper.
+      - Shape into balls. Fry until golden brown.
+
+  - name: Poutine
+    ingredients:
+      - French fries
+      - Cheese curds
+      - Gravy
+    steps:
+      - Cook French fries until crispy.
+      - Place cheese curds on top. Pour hot gravy over fries and cheese.
+
+  - name: Greek Salad
+    ingredients:
+      - Romaine lettuce
+      - Cucumber
+      - Tomato
+      - Red onion
+      - Kalamata olives
+      - Feta cheese
+      - Olive oil
+      - Red wine vinegar
+      - Dried oregano
+      - Salt
+      - Pepper
+    steps:
+      - Chop lettuce, cucumber, tomato, and onion.
+      - Toss with olives and feta cheese.
+      - Dress with olive oil, red wine vinegar, oregano, salt, and pepper.
+
+  - name: Beef Tartare
+    ingredients:
+      - Beef tenderloin
+      - Shallot
+      - Capers
+      - Dijon mustard
+      - Worcestershire sauce
+      - Tabasco sauce
+      - Egg yolk
+      - Salt
+      - Pepper
+      - Olive oil
+      - Baguette (for serving)
+    steps:
+      - Finely chop beef tenderloin, shallot, and capers.
+      - Mix with mustard, Worcestershire sauce, Tabasco sauce, egg yolk, salt, and pepper.
+      - Form into a mound. Drizzle with olive oil.
+      - Serve with toasted baguette slices.
+
+  - name: Fried Calamari
+    ingredients:
+      - Squid tubes
+      - Flour
+      - Cornmeal
+      - Salt
+      - Pepper
+      - Vegetable oil (for frying)
+      - Lemon wedges (for serving)
+      - Marinara sauce (for dipping)
+    steps:
+      - Slice squid tubes into rings. Mix flour, cornmeal, salt, and pepper.
+      - Dredge squid rings in flour mixture. Fry until golden brown.
+      - Serve with lemon wedges and marinara sauce for dipping.
+
+  - name: Guacamole
+    ingredients:
+      - Avocados
+      - Tomato
+      - Onion
+      - Jalapeno
+      - Cilantro
+      - Lime juice
+      - Salt
+      - Pepper
+    steps:
+      - Mash avocados. Chop tomato, onion, jalapeno, and cilantro.
+      - Mix with lime juice, salt, and pepper.
+      - Serve with tortilla chips or as a topping for tacos.
+  - name: Ravioli
+    ingredients:
+      - Ravioli pasta
+      - Ricotta cheese
+      - Parmesan cheese
+      - Egg
+      - Salt
+      - Pepper
+      - Marinara sauce (optional)
+      - Basil (for garnish)
+    steps:
+      - Prepare ravioli pasta dough.
+      - Mix ricotta cheese, Parmesan cheese, egg, salt, and pepper for filling.
+      - Fill ravioli pasta with cheese mixture. Cook until tender.
+      - Serve with marinara sauce and garnish with basil if desired.
+
+  - name: Lobster Bisque
+    ingredients:
+      - Lobster meat
+      - Butter
+      - Onion
+      - Carrot
+      - Celery
+      - Tomato paste
+      - Brandy
+      - Fish stock
+      - Heavy cream
+      - Paprika
+      - Cayenne pepper
+      - Salt
+      - Pepper
+      - Chives (for garnish)
+    steps:
+      - Sauté lobster shells in butter. Add onion, carrot, celery, and tomato paste.
+      - Deglaze with brandy. Add fish stock and simmer.
+      - Strain and return to pot. Stir in heavy cream, paprika, cayenne pepper, salt, and pepper.
+      - Add lobster meat. Simmer until heated through. Garnish with chives.
+
+  - name: Beet Salad
+    ingredients:
+      - Beets
+      - Goat cheese
+      - Walnuts
+      - Arugula
+      - Balsamic vinegar
+      - Olive oil
+      - Salt
+      - Pepper
+    steps:
+      - Roast beets. Peel and slice.
+      - Toast walnuts. Mix with arugula and goat cheese.
+      - Dress with balsamic vinegar, olive oil, salt, and pepper.
+
+  - name: Risotto
+    ingredients:
+      - Arborio rice
+      - Onion
+      - Garlic
+      - White wine
+      - Chicken or vegetable broth
+      - Parmesan cheese
+      - Butter
+      - Salt
+      - Pepper
+      - Fresh herbs (optional)
+    steps:
+      - Sauté onion and garlic. Add Arborio rice. Deglaze with white wine.
+      - Gradually add broth, stirring constantly until absorbed.
+      - Stir in Parmesan cheese and butter. Season with salt and pepper.
+      - Garnish with fresh herbs if desired.
+
+  - name: Crab Cakes
+    ingredients:
+      - Crab meat
+      - Mayonnaise
+      - Dijon mustard
+      - Worcestershire sauce
+      - Old Bay seasoning
+      - Bread crumbs
+      - Egg
+      - Butter
+      - Lemon wedges (for serving)
+    steps:
+      - Mix crab meat, mayonnaise, mustard, Worcestershire sauce, Old Bay seasoning, bread crumbs, and egg.
+      - Form into patties. Refrigerate to firm up.
+      - Cook in butter until golden brown on both sides.
+      - Serve with lemon wedges.
+
+  - name: Strawberry Shortcake
+    ingredients:
+      - Strawberries
+      - Sugar
+      - Flour
+      - Baking powder
+      - Salt
+      - Butter
+      - Milk
+      - Whipped cream
+    steps:
+      - Slice strawberries and toss with sugar.
+      - Mix flour, sugar, baking powder, and salt. Cut in butter. Stir in milk.
+      - Drop dough onto baking sheet. Bake until golden brown.
+      - Serve with strawberries and whipped cream.
+
+  - name: Edamame
+    ingredients:
+      - Edamame (young soybeans)
+      - Salt
+    steps:
+      - Boil or steam edamame until tender.
+      - Sprinkle with salt. Serve warm or chilled.
+
+  - name: Ceviche
+    ingredients:
+      - White fish (such as tilapia or cod)
+      - Shrimp
+      - Lime juice
+      - Lemon juice
+      - Red onion
+      - Tomato
+      - Cilantro
+      - Jalapeno
+      - Salt
+      - Pepper
+      - Avocado (optional)
+      - Tortilla chips (for serving)
+    steps:
+      - Dice fish and shrimp. Mix with lime juice and lemon juice. Marinate until fish is opaque.
+      - Stir in red onion, tomato, cilantro, jalapeno, salt, and pepper.
+      - Serve with avocado slices and tortilla chips.
+  - name: Hot and Sour Soup
+    ingredients:
+      - Chicken or pork broth
+      - Tofu
+      - Mushrooms
+      - Bamboo shoots
+      - Wood ear fungus
+      - Soy sauce
+      - Rice vinegar
+      - Cornstarch
+      - Egg
+      - Sesame oil
+      - Green onions
+      - White pepper
+      - Chili oil (optional)
+    steps:
+      - Bring broth to a boil. Add tofu, mushrooms, bamboo shoots, and fungus.
+      - Season with soy sauce, rice vinegar, and white pepper.
+      - Thicken with cornstarch slurry. Drizzle in beaten egg.
+      - Finish with sesame oil, green onions, and chili oil if desired.
+
+  - name: Spring Rolls
+    ingredients:
+      - Spring roll wrappers
+      - Shrimp
+      - Rice vermicelli
+      - Lettuce
+      - Carrots
+      - Cucumber
+      - Mint leaves
+      - Thai basil
+      - Fish sauce
+      - Lime juice
+      - Sugar
+      - Garlic
+      - Chili (optional)
+    steps:
+      - Cook shrimp and rice vermicelli. Julienne lettuce, carrots, and cucumber.
+      - Soak spring roll wrappers. Fill with shrimp, vermicelli, vegetables, and herbs.
+      - Roll tightly and seal. Serve with dipping sauce.
+
+  - name: Sashimi
+    ingredients:
+      - Fresh raw fish (such as tuna, salmon, yellowtail)
+      - Soy sauce
+      - Wasabi
+      - Pickled ginger
+    steps:
+      - Slice fish thinly. Arrange on a plate.
+      - Serve with soy sauce, wasabi, and pickled ginger.
+
+  - name: Paella
+    ingredients:
+      - Arborio rice
+      - Chicken
+      - Chorizo
+      - Shrimp
+      - Mussels
+      - Onion
+      - Garlic
+      - Bell pepper
+      - Tomato
+      - Saffron
+      - Paprika
+      - Chicken broth
+      - Olive oil
+      - Salt
+      - Pepper
+    steps:
+      - Sauté chicken, chorizo, onion, garlic, and bell pepper.
+      - Add rice, saffron, paprika, and tomato. Stir to coat.
+      - Pour in chicken broth. Simmer until rice is cooked.
+      - Add shrimp and mussels. Cook until seafood is done.
+
+  - name: Clam Chowder
+    ingredients:
+      - Clams
+      - Bacon
+      - Onion
+      - Celery
+      - Potato
+      - Flour
+      - Milk
+      - Bay leaf
+      - Thyme
+      - Butter
+      - Salt
+      - Pepper
+    steps:
+      - Cook bacon until crispy. Sauté onion, celery, and potato.
+      - Stir in flour. Add milk, bay leaf, and thyme. Simmer until thickened.
+      - Add clams. Cook until they open. Discard any unopened clams.
+      - Finish with butter. Season with salt and pepper.
+
+  - name: Miso Soup
+    ingredients:
+      - Dashi (Japanese soup stock)
+      - Miso paste
+      - Tofu
+      - Wakame seaweed
+      - Green onions
+    steps:
+      - Bring dashi to a simmer. Dissolve miso paste.
+      - Add tofu and wakame seaweed. Simmer briefly.
+      - Garnish with sliced green onions.
+
+  - name: Escargots
+    ingredients:
+      - Escargots (snails)
+      - Garlic butter
+      - Parsley
+      - Baguette (for serving)
+    steps:
+      - Clean and prepare escargots. Place in shells.
+      - Top with garlic butter and parsley.
+      - Bake until bubbly. Serve with sliced baguette.
+
+  - name: Hot Dog
+    ingredients:
+      - Hot dog sausages
+      - Hot dog buns
+      - Ketchup
+      - Mustard
+      - Relish
+      - Onion (optional)
+      - Cheese (optional)
+    steps:
+      - Grill or boil hot dog sausages.
+      - Toast hot dog buns. Place sausages inside.
+      - Add toppings such as ketchup, mustard, relish, onion, and cheese as desired.
+  - name: Pulled Pork Sandwich
+    ingredients:
+      - Pork shoulder
+      - Barbecue sauce
+      - Hamburger buns
+      - Coleslaw
+      - Pickles (optional)
+    steps:
+      - Rub pork shoulder with seasoning. Slow cook until tender.
+      - Shred pork and mix with barbecue sauce.
+      - Toast hamburger buns. Fill with pulled pork and coleslaw. Add pickles if desired.
+
+  - name: Bruschetta
+    ingredients:
+      - Baguette
+      - Tomatoes
+      - Garlic
+      - Basil
+      - Olive oil
+      - Balsamic vinegar
+      - Salt
+      - Pepper
+    steps:
+      - Slice baguette and toast until crisp.
+      - Dice tomatoes and mix with minced garlic, chopped basil, olive oil, balsamic vinegar, salt, and pepper.
+      - Spoon tomato mixture onto toasted baguette slices.
+
+  - name: Panna Cotta
+    ingredients:
+      - Heavy cream
+      - Milk
+      - Sugar
+      - Gelatin
+      - Vanilla extract
+      - Fresh berries (for serving)
+      - Mint leaves (for garnish)
+    steps:
+      - Heat cream, milk, and sugar until sugar dissolves. Stir in gelatin and vanilla extract.
+      - Pour mixture into molds. Refrigerate until set.
+      - Serve with fresh berries and garnish with mint leaves.
+
+  - name: Fish and Chips
+    ingredients:
+      - White fish fillets (such as cod or haddock)
+      - Flour
+      - Baking powder
+      - Salt
+      - Beer
+      - Potatoes
+      - Oil (for frying)
+      - Malt vinegar
+      - Tartar sauce
+    steps:
+      - Prepare batter with flour, baking powder, salt, and beer.
+      - Coat fish fillets in batter. Fry until golden brown.
+      - Cut potatoes into fries and fry until crispy.
+      - Serve fish and chips with malt vinegar and tartar sauce.
+
+  - name: Pad Thai
+    ingredients:
+      - Rice noodles
+      - Shrimp
+      - Tofu
+      - Eggs
+      - Bean sprouts
+      - Green onions
+      - Garlic
+      - Fish sauce
+      - Tamarind paste
+      - Sugar
+      - Crushed peanuts
+      - Lime wedges
+      - Chili flakes
+    steps:
+      - Soak rice noodles. Cook shrimp, tofu, and eggs.
+      - Sauté garlic, green onions, and bean sprouts. Add noodles and sauce.
+      - Stir in cooked ingredients. Serve with crushed peanuts, lime wedges, and chili flakes.
+
+  - name: Tiramisu
+    ingredients:
+      - Ladyfingers
+      - Espresso
+      - Marsala wine
+      - Mascarpone cheese
+      - Eggs
+      - Sugar
+      - Cocoa powder
+    steps:
+      - Dip ladyfingers in espresso and Marsala wine. Layer in dish.
+      - Mix mascarpone cheese, egg yolks, and sugar until smooth.
+      - Beat egg whites until stiff. Fold into mascarpone mixture.
+      - Spread over ladyfingers. Chill and dust with cocoa powder before serving.
+
+  - name: Takoyaki
+    ingredients:
+      - Takoyaki batter mix
+      - Octopus pieces
+      - Green onions
+      - Tenkasu (tempura scraps)
+      - Bonito flakes
+      - Takoyaki sauce
+      - Japanese mayonnaise
+      - Aonori (seaweed flakes)
+    steps:
+      - Heat takoyaki pan. Pour in batter. Add octopus, green onions, and tenkasu.
+      - Cook until golden and crispy. Flip to cook evenly.
+      - Serve with takoyaki sauce, mayonnaise, bonito flakes, and aonori.
+
+  - name: Macarons
+    ingredients:
+      - Almond flour
+      - Powdered sugar
+      - Egg whites
+      - Granulated sugar
+      - Food coloring (optional)
+      - Buttercream or ganache filling
+    steps:
+      - Sift almond flour and powdered sugar. Beat egg whites until stiff.
+      - Fold dry ingredients into egg whites. Add food coloring if desired.
+      - Pipe onto baking sheets. Let rest until dry. Bake until set.
+      - Sandwich with buttercream or ganache filling.
+
+  - name: Apple Pie
+    ingredients:
+      - Pie crust (store-bought or homemade)
+      - Apples
+      - Sugar
+      - Cinnamon
+      - Nutmeg
+      - Lemon juice
+      - Butter
+      - Egg wash
+    steps:
+      - Preheat oven. Roll out pie crust and place in pie dish.
+      - Peel and slice apples. Toss with sugar, cinnamon, nutmeg, and lemon juice.
+      - Fill pie crust with apple mixture. Dot with butter.
+      - Top with second crust. Seal and crimp edges. Brush with egg wash.
+      - Bake until golden and bubbly.
+
+  - name: Cannoli
+    ingredients:
+      - Cannoli shells (store-bought or homemade)
+      - Ricotta cheese
+      - Powdered sugar
+      - Vanilla extract
+      - Chocolate chips
+      - Candied fruit (optional)
+      - Pistachios (optional)
+    steps:
+      - Mix ricotta cheese, powdered sugar, and vanilla extract until smooth.
+      - Stir in chocolate chips and candied fruit if using.
+      - Pipe filling into cannoli shells. Garnish with chopped pistachios if desired.
+  - name: Scallops
+    ingredients:
+      - Scallops
+      - Butter
+      - Garlic
+      - Lemon juice
+      - Salt
+      - Pepper
+      - Parsley (for garnish)
+    steps:
+      - Pat scallops dry. Season with salt and pepper.
+      - Heat butter in a skillet. Sear scallops until golden brown on both sides.
+      - Add minced garlic and lemon juice. Cook briefly.
+      - Serve immediately, garnished with chopped parsley.
+
+  - name: Frozen Yogurt
+    ingredients:
+      - Greek yogurt
+      - Honey or sugar
+      - Vanilla extract
+      - Fruit (optional)
+    steps:
+      - Mix Greek yogurt, honey or sugar, and vanilla extract until smooth.
+      - Stir in chopped fruit if desired.
+      - Freeze until firm, stirring occasionally.
+
+  - name: Chicken Quesadilla
+    ingredients:
+      - Flour tortillas
+      - Cooked chicken
+      - Cheese (such as cheddar or Monterey Jack)
+      - Bell pepper
+      - Onion
+      - Jalapeno
+      - Tomato
+      - Cilantro
+      - Sour cream
+      - Salsa
+    steps:
+      - Place tortilla in a skillet. Layer with chicken, cheese, and vegetables.
+      - Top with another tortilla. Cook until cheese is melted and tortilla is crispy.
+      - Slice into wedges. Serve with sour cream and salsa.
+
+  - name: Mussels
+    ingredients:
+      - Mussels
+      - White wine
+      - Garlic
+      - Shallot
+      - Butter
+      - Parsley
+      - Baguette (for serving)
+    steps:
+      - Clean mussels. Discard any that are open.
+      - Sauté minced garlic and shallot in butter. Add mussels and white wine.
+      - Cover and steam until mussels open. Discard any that remain closed.
+      - Serve with broth and chopped parsley. Enjoy with crusty bread.
+
+  - name: Beef Carpaccio
+    ingredients:
+      - Beef tenderloin
+      - Arugula
+      - Parmesan cheese
+      - Olive oil
+      - Lemon juice
+      - Capers
+      - Salt
+      - Pepper
+    steps:
+      - Slice beef thinly and arrange on a plate.
+      - Top with arugula and shaved Parmesan cheese.
+      - Drizzle with olive oil and lemon juice. Sprinkle with capers, salt, and pepper.
+
+  - name: Eggs Benedict
+    ingredients:
+      - English muffins
+      - Canadian bacon or ham
+      - Eggs
+      - Hollandaise sauce
+      - Butter
+      - Vinegar
+      - Salt
+      - Pepper
+    steps:
+      - Toast English muffins and cook Canadian bacon.
+      - Poach eggs in simmering water with vinegar.
+      - Assemble by placing Canadian bacon on toasted muffins, topping with poached eggs, and spooning hollandaise sauce over.
+
+  - name: Spaghetti Carbonara
+    ingredients:
+      - Spaghetti
+      - Bacon or pancetta
+      - Eggs
+      - Parmesan cheese
+      - Black pepper
+      - Garlic
+      - Olive oil
+      - Parsley (optional)
+    steps:
+      - Cook spaghetti until al dente. Reserve some pasta water.
+      - Sauté bacon or pancetta until crispy. Add minced garlic.
+      - Mix cooked spaghetti with beaten eggs, grated Parmesan cheese, and black pepper.
+      - Toss in bacon mixture, adding pasta water as needed to create a creamy sauce.
+      - Garnish with chopped parsley if desired.
+
+  - name: Omelette
+    ingredients:
+      - Eggs
+      - Milk
+      - Butter
+      - Salt
+      - Pepper
+      - Fillings (such as cheese, vegetables, ham)
+    steps:
+      - Beat eggs with milk, salt, and pepper.
+      - Melt butter in a skillet. Pour in egg mixture.
+      - Cook until edges are set. Add fillings to one half of the omelette.
+      - Fold omelette over and cook until eggs are fully set.
+
+  - name: Sushi
+    ingredients:
+      - Sushi rice
+      - Nori (seaweed sheets)
+      - Fish (such as tuna, salmon, or shrimp)
+      - Vegetables (such as cucumber, avocado, or carrot)
+      - Soy sauce
+      - Wasabi
+      - Pickled ginger
+    steps:
+      - Cook sushi rice and season with rice vinegar, sugar, and salt.
+      - Place nori on a bamboo sushi mat. Spread rice over nori.
+      - Add fish and vegetables. Roll tightly using the sushi mat.
+      - Slice into pieces and serve with soy sauce, wasabi, and pickled ginger.
+
+  - name: Chocolate Mousse
+    ingredients:
+      - Dark chocolate
+      - Heavy cream
+      - Sugar
+      - Vanilla extract
+      - Salt
+    steps:
+      - Melt chocolate. Whip heavy cream with sugar, vanilla extract, and salt.
+      - Fold melted chocolate into whipped cream until smooth.
+      - Chill until set. Serve with whipped cream and chocolate shavings if desired.
+  - name: Beignets
+    ingredients:
+      - All-purpose flour
+      - Sugar
+      - Baking powder
+      - Salt
+      - Milk
+      - Eggs
+      - Vanilla extract
+      - Vegetable oil (for frying)
+      - Powdered sugar (for dusting)
+    steps:
+      - Mix flour, sugar, baking powder, and salt. Stir in milk, eggs, and vanilla extract.
+      - Heat oil in a deep fryer. Drop spoonfuls of batter into hot oil.
+      - Fry until golden brown. Drain on paper towels and dust with powdered sugar.
+
+  - name: Bibimbap
+    ingredients:
+      - Cooked rice
+      - Beef (or tofu)
+      - Carrots
+      - Spinach
+      - Bean sprouts
+      - Zucchini
+      - Mushrooms
+      - Eggs
+      - Gochujang (Korean chili paste)
+      - Sesame oil
+      - Soy sauce
+      - Garlic
+      - Sugar
+      - Sesame seeds
+      - Vegetable oil
+    steps:
+      - Marinate beef (or tofu) in soy sauce, garlic, sugar, and sesame oil. Cook.
+      - Sauté vegetables separately. Fry eggs.
+      - Arrange rice and cooked ingredients in a bowl. Top with gochujang and sesame seeds.
+
+  - name: Hummus
+    ingredients:
+      - Chickpeas
+      - Tahini
+      - Lemon juice
+      - Garlic
+      - Olive oil
+      - Cumin
+      - Salt
+      - Paprika (for garnish)
+      - Pita bread or vegetables (for serving)
+    steps:
+      - Blend chickpeas, tahini, lemon juice, garlic, olive oil, cumin, and salt until smooth.
+      - Adjust consistency with water if needed. Serve drizzled with olive oil and sprinkled with paprika.
+
+  - name: Pork Chop
+    ingredients:
+      - Pork chops
+      - Salt
+      - Pepper
+      - Olive oil
+      - Butter
+      - Garlic
+      - Thyme
+      - Rosemary
+      - Lemon juice
+    steps:
+      - Season pork chops with salt and pepper.
+      - Heat olive oil in a skillet. Add pork chops and sear on both sides.
+      - Add butter, garlic, thyme, and rosemary. Baste pork chops until cooked through.
+      - Finish with a squeeze of lemon juice before serving.
+
+  - name: Chicken Wings
+    ingredients:
+      - Chicken wings
+      - Salt
+      - Pepper
+      - Garlic powder
+      - Onion powder
+      - Paprika
+      - Baking powder
+      - Butter
+      - Hot sauce
+      - Honey (optional)
+      - Celery sticks and ranch dressing (for serving)
+    steps:
+      - Pat chicken wings dry and season with salt, pepper, garlic powder, onion powder, and paprika.
+      - Toss wings with baking powder. Bake until crispy.
+      - Melt butter with hot sauce (and honey if desired). Toss cooked wings in sauce.
+      - Serve with celery sticks and ranch dressing.
+
+  - name: Grilled Salmon
+    ingredients:
+      - Salmon fillets
+      - Olive oil
+      - Lemon juice
+      - Garlic
+      - Dill
+      - Salt
+      - Pepper
+    steps:
+      - Brush salmon fillets with olive oil. Season with lemon juice, minced garlic, dill, salt, and pepper.
+      - Grill skin-side down until fish is cooked through and skin is crispy.
+
+  - name: Chocolate Cake
+    ingredients:
+      - All-purpose flour
+      - Cocoa powder
+      - Sugar
+      - Baking powder
+      - Baking soda
+      - Salt
+      - Eggs
+      - Milk
+      - Vegetable oil
+      - Vanilla extract
+      - Boiling water
+    steps:
+      - Mix dry ingredients. Add eggs, milk, oil, and vanilla extract. Beat until smooth.
+      - Stir in boiling water. Pour batter into prepared cake pans.
+      - Bake until a toothpick inserted into the center comes out clean.
+
+  - name: Tacos
+    ingredients:
+      - Tortillas
+      - Ground beef or chicken
+      - Taco seasoning
+      - Lettuce
+      - Tomato
+      - Onion
+      - Cheese
+      - Salsa
+      - Sour cream
+      - Guacamole
+    steps:
+      - Cook meat with taco seasoning. Warm tortillas.
+      - Assemble tacos with meat, lettuce, tomato, onion, cheese, salsa, sour cream, and guacamole.
+
+  - name: Hamburger
+    ingredients:
+      - Ground beef
+      - Salt
+      - Pepper
+      - Hamburger buns
+      - Lettuce
+      - Tomato
+      - Onion
+      - Cheese
+      - Ketchup
+      - Mustard
+      - Pickles
+    steps:
+      - Season ground beef with salt and pepper. Form into patties.
+      - Grill or fry patties until cooked to desired doneness.
+      - Assemble burgers with lettuce, tomato, onion, cheese, ketchup, mustard, and pickles.
+
+  - name: Baby Back Ribs
+    ingredients:
+      - Baby back ribs
+      - Barbecue sauce
+      - Salt
+      - Pepper
+      - Garlic powder
+      - Onion powder
+      - Paprika
+      - Brown sugar
+      - Apple cider vinegar
+    steps:
+      - Season ribs with salt, pepper, garlic powder, onion powder, and paprika.
+      - Wrap ribs in foil and bake until tender.
+      - Finish on the grill, basting with barbecue sauce mixed with brown sugar and apple cider vinegar.
+  - name: Deviled Eggs
+    ingredients:
+      - Eggs
+      - Mayonnaise
+      - Mustard
+      - Vinegar
+      - Salt
+      - Pepper
+      - Paprika (for garnish)
+    steps:
+      - Hard boil eggs. Peel and halve lengthwise.
+      - Remove yolks and mash with mayonnaise, mustard, vinegar, salt, and pepper.
+      - Spoon or pipe mixture into egg white halves. Sprinkle with paprika.
+
+  - name: French Fries
+    ingredients:
+      - Potatoes
+      - Vegetable oil
+      - Salt
+    steps:
+      - Cut potatoes into strips. Soak in cold water, then dry thoroughly.
+      - Heat oil to 350°F (175°C). Fry potatoes in batches until golden brown.
+      - Drain on paper towels and season with salt.
+
+  - name: Dumplings
+    ingredients:
+      - Dumpling wrappers
+      - Ground meat (such as pork or chicken)
+      - Cabbage
+      - Green onions
+      - Garlic
+      - Ginger
+      - Soy sauce
+      - Sesame oil
+      - Salt
+      - Pepper
+    steps:
+      - Mix ground meat with finely chopped cabbage, green onions, garlic, ginger, soy sauce, sesame oil, salt, and pepper.
+      - Place a spoonful of filling onto each dumpling wrapper. Fold and seal.
+      - Steam, boil, or pan-fry dumplings until cooked through.
+
+  - name: Fried Rice
+    ingredients:
+      - Cooked rice (preferably day-old)
+      - Eggs
+      - Vegetables (such as peas, carrots, and bell peppers)
+      - Protein (such as shrimp, chicken, or pork)
+      - Soy sauce
+      - Sesame oil
+      - Garlic
+      - Ginger
+      - Green onions
+      - Salt
+      - Pepper
+    steps:
+      - Heat oil in a wok or skillet. Add beaten eggs and scramble.
+      - Stir-fry protein until cooked. Add minced garlic, ginger, and chopped vegetables.
+      - Add cooked rice and stir-fry until heated through. Season with soy sauce, sesame oil, salt, and pepper.
+
+  - name: French Onion Soup
+    ingredients:
+      - Onions
+      - Butter
+      - Beef broth
+      - White wine
+      - Baguette
+      - Gruyere cheese
+      - Salt
+      - Pepper
+    steps:
+      - Slice onions thinly. Cook in butter until caramelized.
+      - Deglaze pan with white wine. Add beef broth and simmer.
+      - Ladle soup into oven-safe bowls. Top with toasted baguette slices and grated Gruyere cheese.
+      - Broil until cheese is bubbly and golden brown.
+
+  - name: Pho
+    ingredients:
+      - Beef bones
+      - Water
+      - Onion
+      - Ginger
+      - Cinnamon
+      - Star anise
+      - Cloves
+      - Cardamom pods
+      - Fish sauce
+      - Rice noodles
+      - Beef slices
+      - Bean sprouts
+      - Thai basil
+      - Lime wedges
+      - Chili peppers
+    steps:
+      - Roast beef bones. Simmer with water, onion, ginger, cinnamon, star anise, cloves, and cardamom pods.
+      - Strain broth. Season with fish sauce.
+      - Cook rice noodles and place in bowls. Top with beef slices and bean sprouts.
+      - Ladle hot broth over noodles. Serve with Thai basil, lime wedges, and chili peppers.
+
+  - name: Caprese Salad
+    ingredients:
+      - Tomatoes
+      - Fresh mozzarella cheese
+      - Fresh basil leaves
+      - Olive oil
+      - Balsamic glaze (optional)
+      - Salt
+      - Pepper
+    steps:
+      - Slice tomatoes and fresh mozzarella cheese.
+      - Arrange alternating slices on a plate. Tuck fresh basil leaves between slices.
+      - Drizzle with olive oil and balsamic glaze if desired. Season with salt and pepper.
+
+  - name: Oysters
+    ingredients:
+      - Fresh oysters
+      - Lemon wedges
+      - Tabasco sauce
+      - Mignonette sauce
+    steps:
+      - Shuck oysters and loosen from shell.
+      - Serve on ice with lemon wedges, Tabasco sauce, and mignonette sauce.
+
+  - name: Baklava
+    ingredients:
+      - Phyllo dough
+      - Walnuts
+      - Almonds
+      - Sugar
+      - Cinnamon
+      - Butter
+      - Honey
+      - Lemon juice
+    steps:
+      - Layer phyllo dough and nut mixture brushed with melted butter.
+      - Bake until golden brown. Pour honey syrup over hot baklava.
+      - Cool and slice into pieces.
+
+  - name: Crème Brûlée
+    ingredients:
+      - Heavy cream
+      - Egg yolks
+      - Sugar
+      - Vanilla extract
+      - Granulated sugar (for caramelizing)
+    steps:
+      - Heat cream until hot but not boiling. Whisk egg yolks with sugar and vanilla extract.
+      - Gradually whisk hot cream into egg mixture. Strain and pour into ramekins.
+      - Bake in a water bath until set. Chill until cold.
+      - Sprinkle granulated sugar on top and caramelize with a torch.
+
+  - name: Carrot Cake
+    ingredients:
+      - Flour
+      - Sugar
+      - Baking soda
+      - Baking powder
+      - Salt
+      - Cinnamon
+      - Nutmeg
+      - Eggs
+      - Oil
+      - Vanilla extract
+      - Carrots
+      - Walnuts
+      - Cream cheese
+      - Butter
+      - Powdered sugar
+      - Lemon juice
+    steps:
+      - Mix dry ingredients. Beat eggs, oil, and vanilla extract. Combine wet and dry ingredients.
+      - Fold in grated carrots and chopped walnuts. Pour batter into pans and bake.
+      - Beat cream cheese, butter, powdered sugar, and lemon juice for frosting. Frost cooled cakes.
+
+  - name: Onion Rings
+    ingredients:
+      - Onions
+      - Flour
+      - Cornstarch
+      - Baking powder
+      - Salt
+      - Pepper
+      - Beer
+      - Oil (for frying)
+    steps:
+      - Slice onions into rings. Mix flour, cornstarch, baking powder, salt, and pepper.
+      - Whisk in beer until smooth. Dip onion rings in batter.
+      - Fry in hot oil until golden brown and crispy. Drain on paper towels.
+
+  - name: Caesar Salad
+    ingredients:
+      - Romaine lettuce
+      - Croutons
+      - Parmesan cheese
+      - Caesar dressing (made with anchovies, garlic, lemon juice, Dijon mustard, egg yolk, olive oil, and Worcestershire sauce)
+    steps:
+      - Toss torn romaine lettuce with croutons and shaved Parmesan cheese.
+      - Dress with Caesar dressing and toss to coat evenly.
