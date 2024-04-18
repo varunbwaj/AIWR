@@ -5,6 +5,7 @@ import streamlit as st
 from joblib import load
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+df = pd.read_csv('recipesFinal.csv')
 # Load the model
 model = load('model.joblib')
 
@@ -32,9 +33,18 @@ if user_input:
     # Get the class labels
     class_labels = model.named_steps['svc'].classes_
 
+
     # Display the most probable dish
     st.markdown("### Most probable dish:")
     st.write(class_labels[top5_indices[0]])
+
+    # Get the row for the most probable dish
+    most_probable_dish_row = df.iloc[top5_indices[0]]
+
+    # Display the ingredients and recipe for the most probable dish
+    
+    st.write("Ingredients: ", most_probable_dish_row[df.columns[1]])
+    st.write("Recipe: ", most_probable_dish_row[df.columns[2]])
 
     # Get a list of all images in the directory for this dish
     image_dir = os.path.join('test', class_labels[top5_indices[0]])
