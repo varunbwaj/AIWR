@@ -1,47 +1,38 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.svm import SVC
-from sklearn.pipeline import make_pipeline
-from sklearn.model_selection import train_test_split
 import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
-# Loading data
-df = pd.read_csv('queries1.csv')
+# Assuming the CSV file is in the same directory
+df = pd.read_csv('recipesFinal.csv', names=['Recipe', 'Ingredients', 'Instructions'])
 
-X = df['String']
-y = df['Class']
+# Preprocess the ingredients
+df['Ingredients'] = df['Ingredients'].str.replace(',', ' ')
 
-# Split your data into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+# Initialize the TfidfVectorizer
+vectorizer = TfidfVectorizer()
 
-# Create a pipeline that first transforms your data using TF-IDF and then fits it to a SVC
-model = make_pipeline(TfidfVectorizer(), SVC(probability=True))
+# Fit and transform the vectorizer on our corpus
+tfidf_matrix = vectorizer.fit_transform(df['Ingredients'])
 
-# Train your model using the training data
-model.fit(X_train, y_train)
-
-# Evaluate your model using the testing data
-print("Model Accuracy: ", model.score(X_test, y_test))
-
-# Your custom string
-custom_string = "different cheese"
-
-# Transform your string into a TF-IDF vector
-custom_string_transformed = model.named_steps['tfidfvectorizer'].transform([custom_string])
-
-# Make prediction
-prediction = model.named_steps['svc'].predict(custom_string_transformed)
-
-print(prediction)
-
-
-
-from joblib import dump
-
-# Save the model to a file
-dump(model, 'model.joblib')
-
-
-# from joblib import load
-
-# # Load the model from a file
-# model_2 = load('model.joblib')
+def get_top_recipes(query, top_n=5):
+    # Transform the query using the same vectorizer
+    query_vec = vectorizer.transform([query])
+    
+    # Compute the cosine similarity between the query and all recipes
+    cosine_similarities = cosine_similarity(query_vec, tfidf_matrix).flatten()
+    
+    # Get the top_n most similar recipes
+    most_similar_recipe_indices = cosine_similarities.argsort()[:-top_n - 1:-1]
+    
+    # Get the top_n most similar recipes' probabilities
+    most_similar_recipe_probs = cosine_similarities[most_similar_recipe_indices]
+    
+    # Create a DataFrame with the recipe names and probabilities
+    top_recipes = pd.DataFrame({
+        'Recipe': df['Recipe'].iloc[most_similar_recipe_indices],
+        'Cosine Score': most_similar_recipe_probs
+    })
+    
+    return top_recipes
+# Test the function
+# print(get_top_recipes("chocolate cream sugar"))

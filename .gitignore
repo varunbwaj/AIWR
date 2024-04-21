@@ -4,3 +4,11 @@
 __pycache__
 test*
 *.h5
+*.ipynb
+*.txt
+*.yaml
+recipes1.csv
+recipes.csv
+queries*
+model*
+train1.py
