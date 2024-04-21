@@ -34,5 +34,3 @@ def get_top_recipes(query, top_n=5):
     })
     
     return top_recipes
-# Test the function
-# print(get_top_recipes("chocolate cream sugar"))
