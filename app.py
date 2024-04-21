@@ -6,7 +6,7 @@ from PIL import Image
 from train import get_top_recipes
 
 df1 = pd.read_csv('recipesFinal.csv')
-class_list  = os.listdir('test/')
+class_list  = os.listdir('101_food_classes_10_percent/test/')
 csv_list = sorted(list(df1[df1.columns[0]]))
 dish_to_class = dict(zip(csv_list,sorted(class_list)))
 

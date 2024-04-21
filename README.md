@@ -10,6 +10,12 @@ First, you need to install the required packages. You can do this by running the
 pip install -r requirements.txt
 ```
 
+```bash
+wget https://storage.googleapis.com/ztm_tf_course/food_vision/101_food_classes_10_percent.zip
+```
+
+Then unzip the file.
+
 ## Execution
 After installing the required packages, you can run the application with the following command:
 
